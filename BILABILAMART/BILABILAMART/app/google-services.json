@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450070875624",
+    "project_id": "bilabilamart",
+    "storage_bucket": "bilabilamart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450070875624:android:b03d8beda19122ae14a85d",
+        "android_client_info": {
+          "package_name": "com.example.bilabilamart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450070875624-4pstjca66o3qfb6btp3djp1djgrv3734.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJPXawdXhehSo2CNJHUR3OSUy1xo2z2RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450070875624-4pstjca66o3qfb6btp3djp1djgrv3734.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
